@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azSouhibani
 - 👀 I’m interested in ... programming (in general), algorithms and Data structure
-- 🌱 I’m currently learning ...CS50x
+- 🌱 I’m currently learning ...React & Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
       Email: azSouhibani@gmail.com
